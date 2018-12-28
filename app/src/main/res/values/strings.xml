@@ -1,0 +1,350 @@
+<resources>
+    <string name="app_name">My E-resources link bank</string>
+    <string-array name="NAME">
+        <item>AFRICAN BOOKS</item>
+        <item>ALGEBRA2GO</item>
+        <item>BINO AND FINO</item>
+        <item>BLOCKY GAMES</item>
+        <item>BOOK DASH BOOKS</item>
+        <item>BOUNDLESS(STATIC)</item>
+        <item>BOUNDLESS TEXTBOOKS</item>
+        <item>CAREER GIRLS</item>
+        <item>CATS AND DOG BOOKS</item>
+        <item>CAUSE SEIRRA LEONE</item>
+        <item>CK-12</item>
+        <item>CK-12 KOLIBRI</item>
+        <item>COLLEGE CREDIT COURSES</item>
+        <item>CORE KNOWLEDGE</item>
+        <item>E-PAATH</item>
+        <item>EDISON ROBOTICS</item>
+        <item>EDUCATE</item>
+        <item>ENGAGENY(EN)-KOLIBRI</item>
+        <item>ENGLISH STORYBOOKS</item>
+        <item>FAIRSHAKE REENTRY RESOURCE CENTER</item>
+        <item>FANTASTIC PHONNICS-ADULT</item>
+        <item>FANATSTIC PHONICS-CHILD</item>
+        <item>FEED THE MONSTER</item>
+        <item>FILE SHARE</item>
+        <item>GCF-2015</item>
+        <item>GREAT BOOK OF THE WORLD</item>
+        <item>HESPERIAN HEALTH GUIDES</item>
+        <item>INFONET-BIOVISION</item>
+        <item>KA LITE</item>
+        <item>KA LITE ESSENTIALS</item>
+        <item>KHAN ACADEMY(ENGLISH)-KOLIBRI</item>
+        <item>KHAN ACADEMY HEALTH AND MEDICINE</item>
+        <item>KHAN ACADEMY ON A STCIK</item>
+        <item>KOLIBRI INDEX(ENGLISH)</item>
+        <item>LEARN SAYLOR</item>
+        <item>LOCAL CONTENT</item>
+        <item>MATH EXPRESSION</item>
+        <item>MEDICAL INFORMATION</item>
+        <item>MEDLINEPLUS(STATIC)</item>
+        <item>MEDLINEPLUS MEDICAL</item>
+        <item>MIT SCRATCH</item>
+        <item>MOODLE ON RACHEL</item>
+        <item>MUSIC THEORY</item>
+        <item>MUSTARD SEED BOOKS</item>
+        <item>OER AFRICA-READING</item>
+        <item>OLPC EDUCATIONAL PACKAGES</item>
+        <item>OPENSTAX TEXTBOOKS</item>
+        <item>OREGON LAW LIBRARY,2014</item>
+        <item>OREGON YOUTH AUTHORITY</item>
+        <item>OYA LAW LIBRARY-STATIC(FOR ENDLESS)</item>
+        <item>PEACEBUILDING RESOURCES</item>
+        <item>PhET</item>
+        <item>PhET (ZIM BASED)</item>
+        <item>PhET INTERACTIVE SIMULATIONS(EN)-</item>
+        <item>PRACTICAL ACTION</item>
+        <item>RADIOLAB</item>
+        <item>RASP Pi USER GUIDE</item>
+        <item>SAYLOR ACADEMY- TEXTBOOKS</item>
+        <item>SCALE OF THE UNIVERSE</item>
+        <item>SIKANA(ENGLISH)-KOLIBRI</item>
+        <item>SIYAVULA</item>
+        <item>TANZANIAN EXAMS</item>
+        <item>TEACHER TRAINING</item>
+        <item>TED TALKS</item>
+        <item>TOUCHABLE EARTH(EN)-KOLIBRI</item>
+        <item>UNDERSTANDING ALGEBRA</item>
+        <item>UNESCOs IICBA ELECTRONIC LIBRARY</item>
+        <item>WASSCE</item>
+        <item>WIKIBOOKS</item>
+        <item>WikiHow</item>
+        <item>WIKIPEDIA</item>
+        <item>WIKIPEDIA FOR SCHOOLS</item>
+        <item>WIKIPEDIA FOR SCHOOLS(STATIC)</item>
+        <item>WIKISOURCE</item>
+        <item>WIKIUNIVERSITY</item>
+        <item>WIKIVOYAGE</item>
+        <item>WIKITIONARY</item>
+        <item>WINDOWS APPPLICATIONS</item>
+        <item>WOMEN IN AFRICA</item>
+        <item>WORLD MAP(ZOOM 10)</item>
+        <item>WORLD MAP(ZOOM 9)</item>
+    </string-array>
+    <string-array name="description">
+        <item>A collection of illustrated childrens stories from many African cultures.Includes stories in English and a new graphical UI.</item>
+        <item>Prealgebra lessons with videos and notes.</item>
+        <item>A Nigerian cartoon teaching children around the world about African culture and much more...</item>
+        <item>Games for tomorrows programmers that teach basic coding skills.</item>
+        <item>African storybooks for children,available for anyone to freely print,translate and distribute.Book Dash believes that every child should own a hundred books by the age of five.</item>
+        <item>High quality searchable,browsable textbooks with inline definitions. This version of Boundless includes a javascript based search engine that will work anywhere but only searches titles (not page content).</item>
+        <item>High quality searchable,browsable textbooks with inline definitions.</item>
+        <item>Enormous collection of videos of women speaking about their work in a wide variety of fields.</item>
+        <item>Fun books for learning to read.</item>
+        <item>Custom module for CAUSE Canada - Sierra Leone.</item>
+        <item>High quality textbooks for students from sixth grade through high
+            school on STEM (Science,Technology,Engineering and Math) from ck12.org.</item>
+        <item></item>
+        <item>A collection of online courses in the areas of mathematics,computer science,economics,and game design from MIT.</item>
+        <item>Teaching materials in PDF format for preschool to grade 5 from Core Knowledge(www.coreknowledge.org)
+            in language arts,social studies and science.</item>
+        <item>E-Paath has over 600 interactive learning modules for Grade 2 to 8,developed by Open Learning Exchange(OLE) Nepal,
+            with support from the Government of Nepals Department of Education.Content is in English and Nepali.</item>
+        <item>The super affordable,Lego compatible robot thats easy to program.</item>
+        <item>Developing Young Leaders and Entrepreneurs in Africa.</item>
+        <item>EngageNY Common Core Curriculum Content,ELA and CCSSM combined.</item>
+        <item>A collection of storybooks in English from several sources.</item>
+        <item>A huge collection of resources for formerly incarcerated people transitioning back into society.</item>
+        <item>A powerful collection of literacy tools for adults - including over 140 lessons and almost 300 videos.</item>
+        <item>A complete 16 week intensive reading scheme for schools and families,with 60 printable stories,multimedia and video.</item>
+        <item>Feed The Monster teaches your child the fundamentals of reading.
+            Collect monster eggs and feed them letters so they can grow into new friends!</item>
+        <item>A simple interface for uploading,viewing,and sharing files using the RACHEL server.</item>
+        <item>Illustrated articles and videos focusing on technology,job training,reading,and math skills.</item>
+        <item>Searchable library of great literature collected from the Project Gutenberg.</item>
+        <item>Easy to understand,practical,accurate,and heavily illustrated guides
+            on health topics for remote areas where access to medical personnel and facilities is limited.</item>
+        <item>Well organized and illustrated information on a wide range of agricultural,environmental,and health
+            topics from Infonet-Biovision(www.infonet-biovision.org).</item>
+        <item>KA-Lite includes a light-weight web server and thousands of videos and
+            exercises on math,science,and more brought to you by the Khan Academy and The Foundation for Learning Equality.</item>
+        <item>KA-Lite includes a light-weight web server and thousands of videos and exercises on math,science,and
+            more brought to you by the Khan Academy and The Foundation for Learning Equality.
+            It excludes humanities,test-prep,and partner-content,as well as some region-specific math lessons for particular school districts.</item>
+        <item>Khan Academy content for English.</item>
+        <item>An entry for the KA Health and Medicine web server with nearly 200 health videos covering
+            the workings of major body systems and the diseases that affect them.</item>
+        <item>A light-weight web server with over 2000 videos on math and science from Khan Academy.</item>
+        <item>Display a tile on the main RACHEL page linking to the content in Kolibri.</item>
+        <item>Free and open online courses for people everywhere.</item>
+        <item>Displays links to the local content interface.</item>
+        <item>Math tutoring materials including videos,study tips,practice questions and step-by-step solutions.</item>
+        <item>Provides general medical information on a wide range of topics for people who may not have regular access to medical professions.</item>
+        <item>More than 4,000 cross-referenced medical articles from the U.S.
+            National Library of Medicine and the National Institutes of Health.For use only on the USB version of RACHEL.</item>
+        <item></item>
+        <item>Scratch is a programming language that makes it easy to create your own interactive stories,animations,games,music,and art. Scratch is designed especially for ages 8 to 16,but is used by people of all ages.</item>
+        <item>Moodle is a learning platform designed to provide educators,administrators and learners with a single robust,secure and integrated system to create personalized learning environments. requires system built with RACHEL Installer v2.1+.</item>
+        <item>A comprehensive music theory lessons and exercises to begin your journey into the realm of music.</item>
+        <item>High quality low-cost books for beginning readers.</item>
+        <item>Reading is an essential skill for all of us and developing our skills in reading is a good investment. This unit is packed with practical activities which are aimed at making reading more enjoyable and rewarding. This unit also includes sections on how to read actively and critically.</item>
+        <item>A collection of educational materials consolidated by the OLPC project.</item>
+        <item>A selection of post secondary textbooks from openstax (openstax.org). Topics include texts in business,mathematics,humanities,social science,science,and technology.</item>
+        <item>This collection of searchable documents is compiled from the Oregon Law Library from 2014 decisions.</item>
+        <item>This module has information specific to Oregon Youth Authority. Included in this content are 6 courses from Study.com (formerly Education Portal) and all the Work Crew Vignettes.</item>
+        <item>A static (with javascript search) version of the OYA Law Library from 2014 decisions.</item>
+        <item>This collection of articles,guides,and videos on building peace is a valuable resource for addressing issues that arise in conflict zones.</item>
+        <item>PhET provides fun,free,interactive,research-based science and mathematics simulations for students from elementary school to university.</item>
+        <item>PhET provides fun,free,interactive,research-based science and mathematics simulations for students from elementary school to university. This is a zim based version of the module.</item>
+        <item>The PhET Interactive Simulations project at the University of Colorado Boulder creates free interactive math and science simulations that engage students through an intuitive,game-like environment where students learn through exploration and discovery.</item>
+        <item>Well organized and illustrated information on a wide range of agricultural,environmental,and health topics.</item>
+        <item>Radiolab is an audio show about curiosity. Where sound illuminates ideas,and the boundaries blur between science,philosophy,and human experience.</item>
+        <item>The Raspberry Pi User Guide discusses basic tasks for setting up and using a Raspberry Pi.</item>
+        <item>Over 100 free textbooks covering a wide range of topics that can help with earning college credits.</item>
+        <item>Interactive exploration of the size of the universe - from quarks to galaxy clusters. Requires Adobe Flash (included in Chrome),</item>
+        <item>Sikana videos are tiny nuggets of practical knowledge and life skills. Topics include sports,cooking,arts,health,agriculture,and much more. The videos are fun to watch and provide useful non-academic learning.</item>
+        <item>Mathmatics and Physical Science Textbooks and Teachers Guides(grades 10to12)</item>
+        <item>PDF example tests from the National Examinations Council of Tanzania that are a useful guide for study and preparation.</item>
+        <item></item>
+        <item>A collection of nearly 2000 short videos on a wide variety of thought-provoking TED (Technology,Entertainment,Design) talks.</item>
+        <item>Where kids teach kids about the world. Taught entirely by school age children in short videos,Touchable Earth promotes tolerance for gender,culture,and identity.</item>
+        <item>An illustrated introductory Algebra textbook that can be viewed here or printed out.</item>
+        <item>Resources from the UNESCO International Institute for Capacity Building in Africa for primary and secondary teachers.</item>
+        <item>A collection of examination syllabuses that help the learner prepare for the West Africa Senior Certificate Examination. Files are provided in both .docx and .pdf.</item>
+        <item>A collection of open-content textbooks on various learning topics.</item>
+        <item>This selection from wikiHow includes nearly 70,000 searchable articles on how to perform everyday tasks.</item>
+        <item>Full copy of wikipedia in English.</item>
+        <item>A selection of articles from Wikipedia that is appropriate for school children and checked for consistency. Includes over 6000 illustrated articles.</item>
+        <item>This non-zim version includes limited search capabilities and is for use only in the USB distribution.</item>
+        <item>A free library of source material for Wikipedia</item>
+        <item>Learning materials for use from pre-school to university,including professional training and informal learning.</item>
+        <item>Worldwide travel guide with a wealth of information on destinations around the world.</item>
+        <item>A multilingual dictionary with definitions in English.</item>
+        <item>Selection of portable applications for installation on client devices. Many of these are pre-requisites for some content to display.</item>
+        <item>A collection of comics,biographies,and audiobooks on prominent women from African history.</item>
+        <item>Slightly modified version of XSCE / Internet-in-a-box OpenStreetMaps - goes to zoom level 10.</item>
+        <item>Slightly modified version of XSCE / Internet-in-a-box OpenStreetMaps - only goes to zoom level 9 at the moment.</item>
+    </string-array>
+
+    <string-array name="download">
+        <item>http://oer2go.org/zipped-modules/en-afristory.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-algebra2go.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-binofino.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-blockly-games.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-bookdash.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-boundless-static.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-boundless.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-careergirls.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-catdogbooks.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-causebooks.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-ck12.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-kolibri-channel-ck-12.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-rachelcourses.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-coreknowledge.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-ole_nepal.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-edison.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-educate.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-kolibri-channel-engage-ny.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-storybooks.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-fairshake.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-fantasticphonics-adult.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-fantasticphonics-child.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-feed-the-monster.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-file_share.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-GCF2015.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-ebooks.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-hesperian_health.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-infonet.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-kalite.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-kalite-ess.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-kolibri-channel-khan-academy.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-khan_health.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-kaos.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-kolibri-index.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-learnsaylor.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-local_content.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-math_expression.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-asst_medical.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-medline_plus-static.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-medline_plus.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-scratch.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-moodle.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-musictheory.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-mustardseedbooks.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-oerafrica-reading.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-olpc.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-openstax.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-law_library.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-oya.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-law_library-static.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-peacebuilding.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-PhET.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-phet-zim.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-kolibri-channel-phet.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-practical_action.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-radiolab.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-rpi_guide.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-saylor.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-scale-of-universe.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-kolibri-channel-sikana.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-siyavula.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-tanzanian_exams.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-teachertraining.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-TED.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-kolibri-channel-touchable-earth.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-understanding_algebra.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-iicba.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-wassce.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-wikibooks.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-wikihow.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-wikipedia.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-wikipedia_for_schools.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-wikipedia_for_schools-static.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-wikisource.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-wikiversity.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-wikivoyage.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-wiktionary.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-windows_apps.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-women-in-african-history.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-worldmap-10.zip</item>
+        <item>http://oer2go.org/zipped-modules/en-worldmap.zip</item>
+    </string-array>
+
+    <string-array name="site_link">
+        <item>htttps://www.africanstorybook.org/</item>
+        <item>https://www.saddleback.edu/faculty/lperez/algebra2go/</item>
+        <item></item>
+        <item>https://github.com/google/blockly-games/wiki/Offline</item>
+        <item></item>
+        <item></item>
+        <item>https://www.boundless.com/</item>
+        <item>https://www.careergirls.org/</item>
+        <item>http://cat-and-dog.org/</item>
+        <item></item>
+        <item>http://www.ck12.org/</item>
+        <item></item>
+        <item></item>
+        <item>https://www.coreknowledge.org/</item>
+        <item>http://www.olenepal.org/e-paath/</item>
+        <item>http://meetedison.com/</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>https://www.fairshake.net/</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>http://www.gcflearnfree.org/</item>
+        <item>https://www.gutenberg.org/</item>
+        <item>http://hesperian.org/</item>
+        <item>http://www.infonet-biovision.org/</item>
+        <item>https://learningequality.org/ka-lite/</item>
+        <item>https://learningequality.org/ka-lite/</item>
+        <item></item>
+        <item>https://www.khanacademy.org/science/health-and-medicine</item>
+        <item>http://www.khanacademy.org/</item>
+        <item></item>
+        <item>en-learnsaylor</item>
+        <item>http://192.168.88.1:8090</item>
+        <item>http://www.mathexpression.com/</item>
+        <item>Assorted</item>
+        <item></item>
+        <item>http://www.nlm.nih.gov/medlineplus/</item>
+        <item>http://scratch.mit.edu/</item>
+        <item>https://moodle.org/</item>
+        <item>http://www.musictheory.net/</item>
+        <item>http://mustardseedbooks.org/</item>
+        <item>http://www.oerafrica.org/resource/reading</item>
+        <item>http://laptop.org/</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>https://phet.colorado.edu/en/simulations/category/new</item>
+        <item></item>
+        <item></item>
+        <item>http://practicalaction.org/</item>
+        <item>http://www.radiolab.org/</item>
+        <item>http://www.raspberrypi.org/tag/raspberry-pi-user-guide/</item>
+        <item>http://www.saylor.org/books/</item>
+        <item>http://htwins.net/scale2/</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>https://www.ted.com/</item>
+        <item></item>
+        <item>http://www.jamesbrennan.org/algebra/</item>
+        <item>http://www.eng.unesco-iicba.org/</item>
+        <item>http://www.waecnigeria.org/</item>
+        <item>https://en.wikibooks.org/wiki/Main_Page</item>
+        <item>http://www.wikihow.com/</item>
+        <item>https://en.wikipedia.org/wiki/Main_Page</item>
+        <item>http://schools-wikipedia.org/</item>
+        <item>http://www.sos-schools.org/wikipedia-for-schools/</item>
+        <item>https://en.wikisource.org/wiki/Main_Page</item>
+        <item>https://en.wikiversity.org/wiki/Wikiversity:Main_Page</item>
+        <item>https://en.wikivoyage.org/wiki/Main_Page</item>
+        <item>https://en.wiktionary.org/wiki/Wiktionary:Main_Page</item>
+        <item>Assorted</item>
+        <item>https://en.unesco.org/womeninafrica/</item>
+        <item>http://wiki.openstreetmap.org/wiki/Main_Page</item>
+        <item>http://wiki.openstreetmap.org/wiki/Main_Page</item>
+    </string-array>
+
+
+</resources>
