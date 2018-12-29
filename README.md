@@ -1,86 +1,34 @@
 # PocketOER2GO
 
-Open Educational Resources (OERs) are freely accessible content useful for teaching, learning, and research. They have revolutionized the way we learn by making a plethora of learning opportunities freely available to anyone with an internet connection.
-## Getting Started
+<img src="Screenshots/logp.jpg" align="right"
+     title="Pocket OER2GO-World Possible" width="120" height="178">
+    
+Open Educational Resources (OERs) are freely accessible content useful for teaching, learning and research.
+They have revolutionized the way we learn by making a plethora of learning opportunities freely available to anyone with an internet connection.
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Pocket OER2GO is an Android Application which contains all the OERs present on the World Possible website.This app was created for World Possible Hackathon 2018.Pocket OER2GO works without internet connection and it can be used for the four billion of the world’s population which lacks access to the internet and is unaware of the resources like  Wikipedia and Khan Academy. This will leads to an immense widening of the knowledge gap.
 
-### Prerequisites
+<p align="center">
+  <img src="Screenshots/393a42b39536097_547355312350372_1360745561786941440_n__1_.png" alt="Dynamic Color Scheme"
+       width="300" height="500">
+</p>
 
-What things you need to install the software and how to install them
+Every Resource in Pocket OER2GO is represented in cards.
+Color of these cards changes dynamically whenever the activity gets refreshed.
 
-```
-Give examples
-```
+<p align="center">
+  <img src="Screenshots/45bb37a39558178_445512649302194_2769746120526528512_n.jpg" alt="Live Search"
+       width="300" height="500">
+</p>
 
-### Installing
+Pocket OER2GO is equipped with `Live-Search`. *Live-Search* is used to replace String Search with the Character Search in the Recycler View.It makes searching of module effortless.
 
-A step by step series of examples that tell you how to get a development env running
+<p align="center">
+  <img src="Screenshots/5b64ebe39686698_2129234417319611_2293791678873468928_n.png" alt="Download Dialogue"
+       width="300" height="500">
+</p>
 
-Say what the step will be
 
-```
-Give the example
-```
+#### *Pocket OER2GO was awarded Runners Up at World Possible Hackathon 2018.*
 
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+World Possible is a Global NGO which is working towards offline learners to the worlds knowledge.
